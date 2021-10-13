@@ -1,5 +1,13 @@
+cbn
+
 git stash for pop
 
 new update from master branch.
+(this is for stash command)
+
+git stash for pop
+
+new update from master branch.
+ master
 This update from cbn branch.
 This is repo sample -2
